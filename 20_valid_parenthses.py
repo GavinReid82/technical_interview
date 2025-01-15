@@ -17,6 +17,9 @@ def isValid(s):
 print(isValid("([])"))
 
 
+# Time Complexity: 𝑂(𝑛)
+# Space Complexity: 𝑂(𝑛), due to the stack usage.
+
 '''
 Example 2: Invalid Input
 Input: "({[})"
